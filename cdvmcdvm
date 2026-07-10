@@ -1,0 +1,35 @@
+[33mcommit 049404e75de7706c5d96fc5795a9bf2cb2f92937[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Krish <krishpatel4020@gmail.com>
+Date:   Fri Jul 10 14:21:09 2026 +0530
+
+    added solution of probelm-14 LongestCommonPrefix
+
+[33mcommit 3ccd844b3190eb49171887f19bbfd2057c76a17b[m
+Author: Krish Patel <krishpatel4020@gmail.com>
+Date:   Fri Jul 10 12:38:16 2026 +0530
+
+    Add author information to README
+
+[33mcommit bd29a2b03020a6efde09994ca7c6b41ca729204d[m
+Author: Krish Patel <krishpatel4020@gmail.com>
+Date:   Fri Jul 10 12:37:38 2026 +0530
+
+    Fix typo in author name in README.md
+
+[33mcommit 779ac539854c13f554ecb50953f2f8770c3349f6[m
+Author: Krish Patel <krishpatel4020@gmail.com>
+Date:   Fri Jul 10 12:37:06 2026 +0530
+
+    Fix typos in README.md
+
+[33mcommit 8ec5fc5498e6af822771ea437843171927089e06[m
+Author: Krish Patel <krishpatel4020@gmail.com>
+Date:   Fri Jul 10 12:36:22 2026 +0530
+
+    Add author information to README
+
+[33mcommit 9eb019c35e9e4d129575388fda67584daaa30ed9[m
+Author: Krish Patel <krishpatel4020@gmail.com>
+Date:   Fri Jul 10 12:29:56 2026 +0530
+
+    Initial commit
