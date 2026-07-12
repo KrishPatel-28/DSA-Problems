@@ -20,6 +20,5 @@ public class BubbleSort {
             arr[counter+1] = temp;
         }
         bubbleSort(arr, len, counter+1);
-        
     }
 }
